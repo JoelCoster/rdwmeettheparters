@@ -46,38 +46,6 @@ Het is ook mogelijk om AND en OR te gebruiken in je queries.
 
 ​
 
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
-​
-
 English
 
  ---
